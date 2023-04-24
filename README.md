@@ -14,7 +14,8 @@
   <img align="center" alt="caio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="right" alt="Gif" height="200" width="200" src="https://aniyuki.com/wp-content/uploads/2022/03/aniyuki-jujutsu-kaisen-52.gif)" />
   
-  ![Snake animation](https://github.com/caiohenri99/caiohenri99/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/caiohenri99/snk/raw/output/github-contribution-grid-snake.svg)
+
   
 <div/>
   
