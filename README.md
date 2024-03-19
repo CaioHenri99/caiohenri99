@@ -1,7 +1,7 @@
 ### Olá!👋 Eu sou o Caio Henrique
 
 - 👨‍💻 Sou estudante de Ciência de Dados e IA
-- 📫 Contate-me no email: infinit_dev7@gmail.com 
+- 📫 Contate-me no email: infinit.dev7@gmail.com 
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohenri99&show_icons=true&theme=dark)
