@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou o Caio Henrique
+### Olá! Eu sou o Caio Henrique 👋
 
 - 👨‍💻 Sou estudante de Ciência de Dados e IA
 - 📫 Contate-me no email: infinit.dev7@gmail.com 
