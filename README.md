@@ -21,9 +21,8 @@
 
 ### Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohenri99&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohenri99&show_icons=true&theme=dark)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenri99&layout=compact&theme=dark)](https://github.com/caiohenri99/github-readme-stats)
-![Snake animation](https://github.com/caiohenri99/caiohenri99/blob/output/github-snake.gif?raw=true)
 
 ---
 
@@ -32,6 +31,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/caio-henrique7])
 
 ---
+
+### Minhas Contribuições em Movimento
+
+![Snake animation](https://github.com/caiohenri99/caiohenri99/blob/output/github-snake.gif?raw=true)
 
 
   
