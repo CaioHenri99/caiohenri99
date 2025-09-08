@@ -1,18 +1,38 @@
-### Olá! Eu sou o Caio Henrique 👋
+# Olá 👋, sou Caio Henrique!
 
-- 👨‍💻 Sou estudante de Ciência de Dados e IA
-- 📫 Contate-me no email: infinit.dev7@gmail.com 
--->
+### Sobre mim
+
+💻 Atualmente, estou trabalhando como **Estagiário em Análise de Dados** na **TV Anhanguera**.
+📚 Estou sempre em busca de aprendizado, e no momento estou focado em **Desenvolvimento Web em Python e Visualização de Dados**.
+📫 Sinta-se a vontade para me contatar: infinit.dev7@gmail.com
+
+---
+
+### Minhas Habilidades
+
+[![Habilidades](https://skillicons.dev/icons?i=html,python,django,pycharm,bots,docker,postgres)](https://skillicons.dev)
+
+* **Linguagens:** HTML, Python
+* **Bibliotecas:** Django, Numpy, SkLearn, Pyplot, Pandas, Seaborn, Matplotlib
+* **Ferramentas:** Git, Docker, VS Code, Pycharm
+* **Databases:** SQL, PostgreSQL, MongoDB
+
+---
+
+### Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohenri99&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenri99&layout=compact)](https://github.com/caiohenri99/github-readme-stats)
-##
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenri99&layout=compact)](https://github.com/caiohenri99/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="caio-PYTHON" height="60" width="50" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
-  <img align="center" alt="caio-PostgreSQL" height="60" width="70" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
-  
-<div/>
+---
+
+### Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/caio-henrique7])
+
+---
+
+
   
   
   
