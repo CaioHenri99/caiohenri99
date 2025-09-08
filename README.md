@@ -2,9 +2,9 @@
 
 ### Sobre mim
 
-💻 Atualmente, estou trabalhando como **Estagiário em Análise de Dados** na **TV Anhanguera**.
-📚 Estou sempre em busca de aprendizado, e no momento estou focado em **Desenvolvimento Web em Python e Visualização de Dados**.
-📫 Sinta-se a vontade para me contatar: infinit.dev7@gmail.com
+- 💻 Atualmente, estou trabalhando como **Estagiário em Análise de Dados** na **TV Anhanguera**.
+- 📚 Estou sempre em busca de aprendizado, e no momento estou focado em **Desenvolvimento Web em Python e Visualização de Dados**.
+- 📫 Sinta-se a vontade para me contatar: infinit.dev7@gmail.com
 
 ---
 
@@ -22,7 +22,8 @@
 ### Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohenri99&show_icons=true&theme=radical)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenri99&layout=compact)](https://github.com/caiohenri99/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenri99&layout=compact&theme=dark)](https://github.com/caiohenri99/github-readme-stats)
+![Snake animation](https://github.com/caiohenri99/caiohenri99/blob/output/github-snake.gif?raw=true)
 
 ---
 
