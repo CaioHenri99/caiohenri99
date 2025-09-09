@@ -30,11 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/caio-henrique7])
 
----
 
-### Minhas Contribuições em Movimento
-
-![github-snake-ocean](https://github.com/caiohenri99/caiohenri99/blob/output/dist/ocean.gif)
 
 
 
