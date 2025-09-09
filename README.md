@@ -34,7 +34,8 @@
 
 ### Minhas Contribuições em Movimento
 
-![Snake animation](https://github.com/caiohenri99/caiohenri99/blob/output/github-snake.gif?raw=true)
+![github-snake-ocean](https://github.com/caiohenri99/caiohenri99/blob/output/dist/ocean.gif)
+
 
 
   
