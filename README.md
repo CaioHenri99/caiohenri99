@@ -7,9 +7,9 @@
 - 📫 Sinta-se a vontade para me contatar: infinit.dev7@gmail.com
 
 ### Conecte-se comigo:
-
+ 
+[![Site Portfolio](https://img.shields.io/badge/Acesse_meu_site-Click_Aqui-blue?style=for-the-badge&logo=github)](https://caiohenri99.github.io/Portifolio/) |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/caio-henrique7])
-[![Site Portfolio](https://img.shields.io/badge/Acesse_meu_site-Click_Aqui-blue?style=for-the-badge&logo=github)](https://caiohenri99.github.io/Portifolio/)
 
 ---
 
@@ -24,10 +24,10 @@
 
 ---
 
-### Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohenri99&show_icons=true&theme=dark)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenri99&layout=compact&theme=dark)](https://github.com/caiohenri99/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=caiohenri99&show_icons=true&theme=dark)
+[![Top Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=caiohenri99&layout=compact&theme=dark)](https://github.com/caiohenri99)
 
 
 
