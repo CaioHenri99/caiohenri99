@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Caio%20Henrique&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Estudante+de+Ciência+de+Dados+e+IA;Estagiário+de+Análise+de+Dados;Desenvolvedor+Python+e+ML;Apaixonado+por+Futebol+e+Café" alt="Typing SVG" />
   
   <h3>👨‍💻 Estudante de Ciência de Dados e IA | Estagiário de Análise de Dados @ TV Anhanguera</h3>
 
