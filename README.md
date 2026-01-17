@@ -17,12 +17,12 @@
 
 ### 📖 Sobre Mim
 
-Sou um entusiasta de tecnologia e dados, atualmente focado em transformar informações brutas em insights estratégicos. No meu dia a dia na **TV Anhanguera**, aplico Python para automação e análise de chamadas televisivas, unindo o desenvolvimento web à ciência de dados.
+Sou um entusiasta de tecnologia e dados, atualmente focado em transformar informações brutas em insights estratégicos. No meu dia a dia na **TV Anhanguera**, aplico Python para automação e análise de chamadas televisivas, unindo ciência de dados e inteligência artificial para melhorar a audiência.
 
 - 🎓 Graduando em **Ciência de Dados e Inteligência Artificial**.
 - ☕ O cara que faz o café (e o código rodar).
 - 🛠️ Atualmente desenvolvendo o **Velo**, um app de planejamento financeiro com a Gemini API.
-- ⚽ Nas horas vagas, gerencio o **Recanto FC** e analiso dados de futebol.
+- ⚽ Nas horas vagas, gerencio o **Recanto FC** e analiso estatísticas de futebol.
 
 ---
 
@@ -30,8 +30,8 @@ Sou um entusiasta de tecnologia e dados, atualmente focado em transformar inform
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Data Science** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
-| **Backend & Web** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
+| **Machine Learning** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=flat&logo=Seaborn&logoColor=white) |
 | **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) |
 | **DevOps & Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
 
@@ -44,13 +44,13 @@ Sou um entusiasta de tecnologia e dados, atualmente focado em transformar inform
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=caiohenri99&layout=compact&theme=dark"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=caiohenri99&theme=dark" alt="GitHub Streak" />
+</div>
+
 ---
 
 ### 📫 Vamos Conversar!
 
 - **Email:** [infinit.dev7@gmail.com](mailto:infinit.dev7@gmail.com)
 - **LinkedIn:** [Caio Henrique](https://www.linkedin.com/in/caio-henrique7)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiohenri99&theme=dark" alt="GitHub Streak" />
-</div>
