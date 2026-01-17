@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Caio%20Henrique&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Estudante+de+Ciência+de+Dados+e+IA;Estagiário+de+Análise+de+Dados;Desenvolvedor+Python+e+ML;Apaixonado+por+Futebol+e+Café" alt="Typing SVG" />
-  
-  <h3>👨‍💻 Estudante de Ciência de Dados e IA | Estagiário de Análise de Dados @ TV Anhanguera</h3>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3bm56amZ4ZWZ4ZWZ4ZWZ4ZWZ4ZWZ4ZWZ4ZWZ4ZWZ4ZWZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6B8X8X9u/giphy.gif" width="150px">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Estudante+de+Ciência+de+Dados+e+IA;Estagiário+de+Análise+de+Dados;Desenvolvedor+Python+e+ML;Analisando+Dados+da+TV+Anhanguera" alt="Typing SVG" />
 
   <p>
     <a href="https://caiohenri99.github.io/Portifolio/">
