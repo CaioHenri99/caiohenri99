@@ -45,7 +45,7 @@ Sou um entusiasta de tecnologia e dados, atualmente focado em transformar inform
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=caiohenri99&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=caiohenri99&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
