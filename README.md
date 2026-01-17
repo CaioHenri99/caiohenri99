@@ -5,12 +5,11 @@
 - 💻 Atualmente, estou trabalhando como **Estagiário em Análise de Dados** na **TV Anhanguera**.
 - 📚 Estou sempre em busca de aprendizado, e no momento estou focado em **Desenvolvimento Web em Python e Visualização de Dados**.
 - 📫 Sinta-se a vontade para me contatar: infinit.dev7@gmail.com
-  
-> 🌐 **[Acesse meu Portfólio aqui](https://caiohenri99.github.io/Portifolio/)**
 
 ### Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/caio-henrique7])
+[![Site Portfolio](https://img.shields.io/badge/Acesse_meu_site-Click_Aqui-blue?style=for-the-badge&logo=github)](https://caiohenri99.github.io/Portifolio/)
 
 ---
 
