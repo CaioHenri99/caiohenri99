@@ -17,12 +17,12 @@
 
 ### 📖 Sobre Mim
 
-Sou um entusiasta de tecnologia e dados, atualmente focado em transformar informações brutas em insights estratégicos. No meu dia a dia na **TV Anhanguera**, aplico Python para automação e análise de chamadas televisivas, unindo ciência de dados e inteligência artificial para melhorar a audiência.
+Sou um entusiasta de tecnologia e dados, atualmente focado em transformar informações brutas em insights estratégicos, também em criar aplicações inteligentes, escaláveis e focadas em resultados reais através de LLMs e Machine Learning.
 
 - 🎓 Graduando em **Ciência de Dados e Inteligência Artificial**.
 - ☕ O cara que faz o café (e o código rodar).
 - 🛠️ Atualmente desenvolvendo o **Velo**, um app de planejamento financeiro com a Gemini API.
-- ⚽ Nas horas vagas, gerencio o **Recanto FC** e analiso estatísticas de futebol.
+- ⚽ Nas horas vagas, gerencio o **Visão de Jogo** e analiso estatísticas de futebol.
 
 ---
 
