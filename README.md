@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Caio%20Henrique&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
   
-  <h3>👨‍💻 Data Science & AI | AI Engineer & Software Developer</h3>
+  <h3>👨‍💻 AI Engineer & Software Developer</h3>
 
   <p>
     <a href="https://caiohenri99.github.io/Portifolio/">
