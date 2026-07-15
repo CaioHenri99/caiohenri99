@@ -32,6 +32,14 @@ AI & Data Science Student focused on building production-ready GenAI application
 * **Key Tech:** Python, Gemini API, Firebase, Javascript.
 * **Impact:** Automates transaction categorization, replacing manual spreadsheets with real-time AI financial coaching.
 
+
+#### 🌩️ [Predição de Eventos Extremos - Climate ML](https://github.com/caiohenri99/Predicao-Eventos-Extremos)
+*A deep learning model to forecast extreme climate and space-weather events — solar heat waves and geomagnetic storms — built for the VII Data Science Challenge (PUC-GO).*
+* **Key Tech:** Python, TensorFlow/Keras (LSTM), Pandas, NumPy.
+* **Data Sources:** NASA & NOAA historical time-series datasets.
+* **Role:** Data collection, preprocessing pipeline, model training & hyperparameter tuning, results evaluation (RMSE).
+* **Context:** Team project (5 members) presented at the X Congresso de Ciência, Tecnologia e Inovação — PUC Goiás.
+
 ---
 
 ### 🛠️ Technologies & Tools
