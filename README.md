@@ -25,6 +25,17 @@ AI & Data Science Student focused on building production-ready GenAI application
 
 ---
 
+### 💼 Experience
+
+#### 📺 Data Analysis Intern — TV Anhanguera *(Feb 2025 – May 2026)*
+Supported strategic decision-making at one of Brazil's largest broadcast networks through audience and programming-performance analysis.
+* Built and delivered **real-time audience reports**, giving the programming team immediate feedback on live-show performance.
+* Managed **consolidated audience datasets**, ensuring metric accuracy and validating historical grid performance.
+* Led a **data-driven project to optimize promo scheduling**, identifying the best time slots and contexts to reach different socioeconomic profiles (classes A–E).
+* Applied **AI tools** to generate insights and creative ideas for internal process improvement.
+
+---
+
 ### 📂 Featured Projects
 
 #### 🚀 [Velo - AI-Powered Financial Planner](https://github.com/caiohenri99/Velo)
