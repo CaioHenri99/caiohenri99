@@ -17,10 +17,9 @@
 
 ### 📖 About Me
 
-AI Engineer & Data Specialist focused on building production-ready GenAI applications, LLM orchestration, and scalable data pipelines.
+AI & Data Science Student focused on building production-ready GenAI applications, LLM orchestration, and scalable data pipelines.
 
 - 🎓 A.S. candidate in **Data Science and Artificial Intelligence** at PUC-GO (Graduation: 2026).
-- ☕ The guy who makes the coffee (and makes the code run).
 - 🛠️ I developed **Velo**, a personal finance planner powered by generative AI (Gemini API), designed to categorize expenses and generate predictive budgeting insights.
 - 💡 Passionate about building robust backend pipelines, prompt engineering, and production-ready LLM orchestration.
 
@@ -31,7 +30,7 @@ AI Engineer & Data Specialist focused on building production-ready GenAI applica
 #### 🚀 [Velo - AI-Powered Financial Planner](https://github.com/caiohenri99/Velo)
 *An intelligent financial tracking application that integrates LLMs to categorize expenses and generate tailored budgeting strategies.*
 * **Key Tech:** Python, Gemini API, Firebase, Javascript.
-* **Impact:** Automates transaction categorization with 95%+ accuracy, replacing manual spreadsheets with real-time AI financial coaching.
+* **Impact:** Automates transaction categorization, replacing manual spreadsheets with real-time AI financial coaching.
 
 ---
 
